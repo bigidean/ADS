@@ -6,6 +6,3 @@ In addition, the goal is to provide a matching service with SI companies or free
 · Core functions
 1. Providing software, hardware, network design drawings of bigdata service.
 2. Providing technical consulting and matching service to customers based on the result design.
-
-
-![Image of bigdata architecture](http://ads.bigidean.com/static/img/service_example1.png)
